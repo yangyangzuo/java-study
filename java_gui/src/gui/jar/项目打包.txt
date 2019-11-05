@@ -1,0 +1,11 @@
+把项目打包成*.jar
+至于jre如何放置，图片文件，资源文件如何放置，如何制作可执行exe文件，可以参考arctime项目的文件目录结构
+下载他的安装包，加压打开就可以看到层次结构
+
+windows下打包工具:
+1.exe4j
+2.Launch4J:http://blog.csdn.net/inowcome/article/details/7268724
+//其他工具izpack或installjammer
+
+mac下打包工具:
+jarbundler

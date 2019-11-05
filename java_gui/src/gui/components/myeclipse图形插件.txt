@@ -1,0 +1,31 @@
+插件1：
+myelispe上自带的有一个Swing/Matisse  
+使用方式：
+1.建立一个java project,建立Class文件时，右键->new ->other->MyEclipse-->Swing-->Mattise Form
+2.打开myelispe上自带的有一个Swing/Matisse视图，右键->Mattise Form文件 
+
+
+
+插件2：
+VE:visual editor(可视化编辑器)
+Myeclipse 8.6 安装VE插件的问题
+首先下载一个Visual Editor 插件 目前最新版本是：VE-Update-1.5.0
+断开网络连接
+然后打开MyEclipse 8.6 选择MyEclipse 菜单下的 MyEclipse Configuration Center 选项
+打开MyEclipse Configuration Center界面 选择 Software 选项卡  
+在Browser Software   中点击 ADD  Site   打开ADD  update site 对话框 
+选择你要添加的 VE-Update-1.5.0.zip    输入Name   单击OK  
+这时会在下面出现你要添加的插件的名字(你输入的Name)  打开折叠菜单 
+看到Tools VE 再打开 看到Visual Editor   双击
+(如果是1.4版本的VE双击的是Visual Editor SDK)
+然后你就会看到 右上角出现 Apply 1 change 的绿色按钮  单击按着提示就可以安装了
+安装完后会让你重新启动MyEclipse  这样就OK了 
+
+
+插件3：
+Designer
+
+插件４
+windowbuilder
+
+ 

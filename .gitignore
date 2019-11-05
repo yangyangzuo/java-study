@@ -1,0 +1,10 @@
+#根目录及其子目录下的所有的如下文件夹和文件
+.DS_Store
+*.log
+dist
+node_modules
+图书
+视频
+test
+教程
+
